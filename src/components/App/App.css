@@ -1,0 +1,32 @@
+.Main {
+	
+	background-color: black;
+	width: 100%;
+	height: 100%;
+
+}
+
+:global(html) {
+	margin: 0;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+:global(body) {
+	margin: 0;
+  
+  
+}
+
+:global(#root) {
+	width: 100%;
+	margin: 0;
+   
+	height: 100vh;
+ /*background-color: black;
+ display: flex;
+ overflow: scroll;
+ align-items: flex-start;
+ justify-content: center;*/
+
+}
